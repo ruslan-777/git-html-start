@@ -1,120 +1,125 @@
-* {
-	font-family: Verdana, Arial, 'sans-serif';
-	background-color: #F0F8FF;
+*{
+font-family: Verdana, Arial, 'sans-serif';
+background-color: #F0F8FF;
 }
 
 .header img {
-	width: 290px;
-	background-color: #3C97FF;
+width: 290px;
+background-color: #3C97FF;
 }
+
 .header {
-	background-color: #3C97FF;
+background-color: #3C97FF;
 }
+
 button{
-	
-	text-shadow: 3px;
-   	width: 130px;
-	background: #26455B;
-    color: white;
-    border-radius: 1em;
-    padding: 0.4em;
-    margin-right: -21px;
-   	vertical-align: 21px;
-    }
+text-shadow: 3px;
+width: 130px;
+background: #26455B;
+color: white;
+border-radius: 1em;
+padding: 0.4em;
+margin-right: -21px;
+vertical-align: 21px; 
+}
 
-
- h1  {
-  		text-align: center;
-  		size: 30px;
+h1 {
+text-align: center;
+size: 30px;
 } 
 
- p {
- 	text-align: center;
- 	size: 30px;
- }
+p {
+text-align: center;
+size: 30px;
+}
 
- .footer img {
- 		width: 250px;
-	background-color: #3C97FF;
- }
+.footer img {
+width: 250px;
+background-color: #3C97FF;
+}
 
- .footer{
- 	margin-top: 100px;
-	background-color:;
- }
- .footer p {
- 	text-align: right;
- 	vertical-align: 60px;
- }
+.footer{
+margin-top: 100px;
+background-color:;
+}
 
- .nav {
- 	text-align: center;
- 	width: 100%;
- 	border-radius: 10em;
-    padding: 0.3em;
- 	border-bottom: 2px solid #3C97FF;
- 	border-top: 2px solid #3C97FF;
- }
+.footer p {
+text-align: right;
+vertical-align: 60px;
+}
 
- .content img {
- 		width: 350px;
- 		height: 600px;
- 		border-radius: 1em;
- 		border: 2px solid #3C97FF;
- 		padding: 3px;
- 		border-style: dotted;
 
+.nav {
+text-align: center;
+width: 100%;
+border-radius: 10em;
+padding: 0.3em;
+border-bottom: 2px solid #3C97FF;
+border-top: 2px solid #3C97FF;
+}
+
+.content img {
+width: 350px;
+height: 600px;
+border-radius: 1em;
+border: 2px solid #3C97FF;
+padding: 3px;
+border-style: dotted;
 }
 
 .content p {
-	
-	font-size: 20px;
-	text-align: left;
+font-size: 20px;
+text-align: left;
 }
 
 .content {
-	columns: 2;
-	margin-left: 100px;
-	padding: 10px;
+columns: 2;
+margin-left: 100px;
+padding: 10px;
 }
 
-
 .louvre {
-	columns: 2;
+columns: 2;
 }
 
 .louvre img {
-	margin: 60px;
-	width: 350px;
- 		height: 600px;
- 		border-radius: 1em;
- 		border: 2px solid #3C97FF;
- 		padding: 3px;
- 		border-style: dotted;
+margin: 60px;
+width: 350px;
+height: 600px;
+border-radius: 1em;
+border: 2px solid #3C97FF;
+padding: 3px;
+border-style: dotted;
 }
+
 .louvre h1 {
-	text-align: center;
-	border: 3px solid #3C97FF ;
-	border-radius: 60px;
-	height: 120px;
-	width: 900px;
+text-align: center;
+border: 3px solid #3C97FF ;
+border-radius: 60px;
+height: 120px;
+width: 900px;
 }
+
 .louvre{
-	text-align: center;
+text-align: center;
 }
+
 .louvre p {
-	padding-top: 60px;
+padding-top: 60px;
 }
+
 .contacts {
-	padding: 20px;
+padding: 20px;
 }
+
 .contacts h1 {
-	text-align: left;
+text-align: left;
 }
+
 iframe {
-	width: 600px; 
-	height:500px;   
-	border-left: 3px;
-	border-right: 3px;
-	border-color: black;
+width: 600px; 
+height:500px;   
+border-left: 3px;
+border-right: 3px;
+border-color: black;
 }
